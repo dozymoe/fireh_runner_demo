@@ -1,9 +1,9 @@
 {
     "modules": [
-        "django",
-        "pip",
-        "uwsgi_django",
-        "waf"
+        "fireh_runner.django",
+        "fireh_runner.pip",
+        "fireh_runner.uwsgi_django",
+        "fireh_runner.waf"
     ],
     "package_name": "fireh_runner_demo",
     "default_project": "blog",
